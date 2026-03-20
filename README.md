@@ -20,7 +20,7 @@
 ### 🏆 Engineer Stats
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=senbitek&show_icons=true&theme=transparent&hide_border=true&title_color=FFD700&text_color=ffffff&icon_color=DAA520&bg_color=00000000" height="170" />
-  <img src="https://https://streak-stats.demolab.com?user=SenBitek&theme=rust-ferris-dark&hide_border=true&locale=pl&type=png" height="170" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=senbitek&theme=transparent&hide_border=true&stroke=FFD700&ring=DAA520&fire=DAA520&currStreakLabel=FFD700" height="170" />
 </p>
 
 <p align="center">
@@ -32,8 +32,8 @@
 ### 📨 Connect with the Base
 <p align="center">
 <a href="mailto:47maziak@gmail.com"><img src="https://img.shields.io/badge/Email-DAA520?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-<a href="https://github.com/mscode-pl"><img src="https://img.shields.io/badge/Organization-000000?style=for-the-badge&logo=github&logoColor=white" /></a>
-<a href="https://discord.gg/mscode"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" /></a>
+<a href="https://https://github.com/SenBitek"><img src="https://img.shields.io/badge/Organization-000000?style=for-the-badge&logo=github&logoColor=white" /></a>
+<a href="https://discord.gg/senbitek"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" /></a>
 </p>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=DAA520&height=100&section=footer" width="100%" />
