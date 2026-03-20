@@ -9,9 +9,8 @@
 ### 💻 Tech Stack
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,ts,java,py,lua,nextjs,react,php,express,nestjs,go,c,cs,dotnet&perline=8" />
+    <img src="https://skillicons.dev/icons?i=js,java,dotnet&perline=8" />
     <br>
-    <img src="https://skillicons.dev/icons?i=laravel,vite,tailwind,flutter,nodejs,mysql,mongodb,postgres,redis,rabbitmq,linux,docker,git,postman&perline=8" />
   </a>
 </p>
 
