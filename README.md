@@ -21,12 +21,6 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=senbitek&theme=transparent&hide_border=true&stroke=FFD700&ring=DAA520&fire=DAA520&currStreakNum=FFD700&currStreakLabel=DAA520&sideNums=FFD700&sideLabels=DAA520&dates=DAA520" height="170" />
 </p>
 
-<p align="center">
-  <a href="https://wakatime.com/@senbitek">
-    <img src="https://wakatime.com/badge/user/senbitek.svg" alt="WakaTime" />
-  </a>
-</p>
-
 ---
 
 ### 📨 Connect with the Base
