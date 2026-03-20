@@ -1,7 +1,5 @@
 <div align="center">
 
-# 🏆 Sigma Developer Profile 🏆
-
 <img src="https://capsule-render.vercel.app/api?type=waving&color=DAA520&height=200&section=header&text=Michał%20Kubisiak&fontSize=60&animation=fadeIn&fontColor=ffffff" width="100%" />
 
 ### 🛠️ CEO & Founder at [MCSun.pl](https://mcsun.pl)
@@ -11,7 +9,7 @@
 ### 💻 Tech Stack
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,js,mysql,mongodb&perline=8" />
+    <img src="https://skillicons.dev/icons?i=java,js,mysql,mongodb,intelidea,visualstudiocode&perline=8" />
   </a>
 </p>
 
