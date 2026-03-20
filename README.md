@@ -9,7 +9,7 @@
 ### 💻 Tech Stack
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,js,mysql,mongodb,intelidea,visualstudiocode&perline=8" />
+    <img src="https://skillicons.dev/icons?i=java,js,mysql,mongodb,idea,vscode&perline=8" />
   </a>
 </p>
 
@@ -26,7 +26,7 @@
 ### 📨 Connect with the Base
 <p align="center">
 <a href="mailto:47maziak@gmail.com"><img src="https://img.shields.io/badge/Email-DAA520?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-<a href="https://https://github.com/SenBitek"><img src="https://img.shields.io/badge/Organization-000000?style=for-the-badge&logo=github&logoColor=white" /></a>
+<a href="https://github.com/SenBitek"><img src="https://img.shields.io/badge/Organization-000000?style=for-the-badge&logo=github&logoColor=white" /></a>
 <a href="https://discord.gg/senbitek"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" /></a>
 </p>
 
