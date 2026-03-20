@@ -19,7 +19,7 @@
 <br>
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=senbitek&show_icons=true&theme=transparent&hide_border=true&title_color=007FFF&text_color=ffffff&icon_color=00D4FF" height="170" />
-  <img src="https://streak-stats.demolab.com?user=senbitek&theme=transparent&hide_border=true&stroke=007FFF&ring=00D4FF&fire=00D4FF&currStreakLabel=007FFF" height="170" />
+  <img src="[![GitHub Streak](https://streak-stats.demolab.com?user=SenBitek&theme=dark&hide_border=true&locale=pl)](https://git.io/streak-stats)" height="170" />
 </p>
 
 <p align="center">
