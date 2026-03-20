@@ -9,7 +9,7 @@
 ### 💻 Tech Stack
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,java,dotnet&perline=8" />
+    <img src="https://skillicons.dev/icons?i=java,js,mysql,mongodb,&perline=8" />
     <br>
   </a>
 </p>
