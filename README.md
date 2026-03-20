@@ -17,7 +17,7 @@
 <br>
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=senbitek&show_icons=true&theme=transparent&hide_border=true&title_color=007FFF&text_color=ffffff&icon_color=00D4FF" height="170" />
-  <img src="https://streak-stats.demolab.com?user=SenBitek&theme=dark&hide_border=true&locale=pl&type=png" height="170" />
+  <img src="https://streak-stats.demolab.com?user=SenBitek&theme=blueberry&hide_border=true&locale=pl&type=png" height="170" />
 </p>
 
 <p align="center">
