@@ -1,8 +1,14 @@
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?section=header&type=waving&color=DAA520,FFD700,DAA520&height=200&text=Michał%20Kubisiak&fontSize=60&animation=fadeIn&fontColor=ffffff" width="100%" />
+
+# 🏆 Sigma Developer Profile 🏆
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=DAA520&height=200&section=header&text=Michał%20Kubisiak&fontSize=60&animation=fadeIn&fontColor=ffffff" width="100%" />
 
 ### 🛠️ CEO & Founder at [MCSun.pl](https://mcsun.pl)
 
+`🌱` **Learning:** Flutter & C | `⚡` **Fun fact:** A crocodile cannot stick its tongue out.
+
+---
 
 ### 💻 Tech Stack
 <p align="center">
@@ -10,6 +16,8 @@
     <img src="https://skillicons.dev/icons?i=java,js,mysql,mongodb&perline=8" />
   </a>
 </p>
+
+---
 
 ### 🏆 Engineer Stats
 <p align="center">
@@ -21,6 +29,7 @@
   <img src="https://visitcount.itsvg.in/api?id=msikorski26&label=System%20Accesses&color=FFD700&icon=0&pretty=true" />
 </p>
 
+---
 
 ### 📨 Connect with the Base
 <p align="center">
@@ -35,6 +44,6 @@
 
 <br><br>
 
-<img src="https://capsule-render.vercel.app/api?section=footer&type=waving&color=DAA520,FFD700,DAA520&height=100" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=DAA520&height=100&section=footer" width="100%" />
 
 </div>
