@@ -10,23 +10,20 @@
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=java,js,mysql,mongodb&perline=8" />
-    <br>
   </a>
 </p>
-
 
 ### 🏆 Engineer Stats
 <br>
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=senbitek&show_icons=true&theme=transparent&hide_border=true&title_color=007FFF&text_color=ffffff&icon_color=00D4FF" height="170" />
-  <img src="[![GitHub Streak](https://streak-stats.demolab.com?user=SenBitek&theme=dark&hide_border=true&locale=pl)](https://git.io/streak-stats)" height="170" />
+  <img src="https://streak-stats.demolab.com?user=SenBitek&theme=transparent&hide_border=true&stroke=007FFF&ring=00D4FF&fire=00D4FF&currStreakLabel=007FFF" height="170" />
 </p>
 
 <p align="center">
-  <img src="[https://wakatime.com/badge/user/b7065cab-63e5-400a-9acf-4689cff3cc57.svg](https://wakatime.com/badge/user/41e864b4-3726-4e5d-8bbf-2d573eebf693/project/6a4261b7-b6db-461e-a4ff-d08b3fb20a6d.svg)" />
+  <img src="https://wakatime.com/badge/user/41e864b4-3726-4e5d-8bbf-2d573eebf693/project/6a4261b7-b6db-461e-a4ff-d08b3fb20a6d.svg" />
   <img src="https://visitcount.itsvg.in/api?id=msikorski26&label=System%20Accesses&color=007FFF&icon=0&pretty=true" />
 </p>
-
 
 ### 📨 Connect with the Base
 <p align="center">
