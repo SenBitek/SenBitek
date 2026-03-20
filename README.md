@@ -4,14 +4,7 @@
 
 <img src="https://capsule-render.vercel.app/api?section=header&type=waving&color=0:000000,70:007FFF,100:00D4FF&height=200&text=Michał%20Kubisiak&fontSize=60&animation=fadeIn&fontColor=ffffff" width="100%" />
 
-### 🛠️ CEO & Founder at [MCSun.pl](https://mcsun.pl) | Future OZE Engineer
-
-`🌱` **Learning:** Flutter & C | `⚡` **Fun fact:** Crocodiles can't stick their tongues out.
-
-### 📝 Bio
-> *"Jeśli potrafisz o czymś marzyć, to potrafisz także tego dokonać"*
-> <br>— **Walt Disney**
-
+### 🛠️ CEO & Founder at [MCSun.pl](https://mcsun.pl)
 
 ### 💻 Tech Stack
 <p align="center">
