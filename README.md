@@ -17,8 +17,8 @@
  
 ### 🏆 Engineer Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=senbitek&show_icons=true&theme=transparent&hide_border=true&title_color=FFD700&text_color=ffffff&icon_color=DAA520&bg_color=00000000" height="170" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=senbitek&theme=transparent&hide_border=true&stroke=FFD700&ring=DAA520&fire=DAA520&currStreakLabel=FFD700" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api?username=senbitek&show_icons=true&theme=transparent&hide_border=true&title_color=FFD700&text_color=FFD700&icon_color=DAA520&bg_color=00000000" height="170" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=senbitek&theme=transparent&hide_border=true&stroke=FFD700&ring=DAA520&fire=DAA520&currStreakNum=FFD700&currStreakLabel=DAA520&sideNums=FFD700&sideLabels=DAA520&dates=DAA520" height="170" />
 </p>
 
 ---
