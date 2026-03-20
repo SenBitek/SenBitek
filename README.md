@@ -35,7 +35,7 @@
 <a href="https://discord.gg/mscode"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" /></a>
 </p>
 
-[<img src="https://discord-readme-badge.vercel.app/api?id=433503150012629005" />](https://discord.com/users/433503150012629005)
+[<img src="https://discord-readme-badge.vercel.app/api?id=1132417134429999124" />](https://discord.com/users/1132417134429999124)
 
 <img src="https://capsule-render.vercel.app/api?section=footer&type=waving&color=0:000000,70:007FFF,100:00D4FF&height=100" width="100%" />
 
