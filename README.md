@@ -22,7 +22,9 @@
 </p>
 
 <p align="center">
-  <img src="https://wakatime.com/badge/user/41e864b4-3726-4e5d-8bbf-2d573eebf693.svg" alt="WakaTime Badge" />
+  <a href="https://wakatime.com/@41e864b4-3726-4e5d-8bbf-2d573eebf693">
+    <img src="https://wakatime.com/badge/user/41e864b4-3726-4e5d-8bbf-2d573eebf693.svg" alt="WakaTime" />
+  </a>
 </p>
 
 ---
