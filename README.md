@@ -23,10 +23,6 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=senbitek&theme=transparent&hide_border=true&stroke=FFD700&ring=DAA520&fire=DAA520&currStreakLabel=FFD700" height="170" />
 </p>
 
-<p align="center">
-  <img src="https://visitcount.itsvg.in/api?id=msikorski26&label=System%20Accesses&color=FFD700&icon=0&pretty=true" />
-</p>
-
 ---
 
 ### 📨 Connect with the Base
